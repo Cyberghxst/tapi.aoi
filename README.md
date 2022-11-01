@@ -28,8 +28,8 @@ api.connect();
 
 ## Usages
 ### Embed images
-> $imageTAPI[endpoint name;params]
-Params must be in JSON
+> `$imageTAPI[endpoint name;params]`
+<br> Params must be in JSON
 #### Supreme command
 ```js
 module.exports = {
@@ -40,8 +40,8 @@ module.exports = {
 }
 ```
 ### Getting a JSON body
-> $jsonTAPI[endpoint name;params]
-Params must be in JSON
+> `$jsonTAPI[endpoint name;params]`
+<br> Params must be in JSON
 ```js
 module.exports = {
     name: 'owoify',
@@ -55,4 +55,4 @@ module.exports = {
 ## Made with love by a Moonlight Group member.
 ### Credits
 > Mid#1044 (for some code "inspiration")
-> Cyberghxst#2683 (Package developer)
+> <br> Cyberghxst#2683 (Package developer)
