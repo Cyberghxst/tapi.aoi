@@ -1,0 +1,20 @@
+{
+  "name": "aoi.t-api",
+  "version": "0.0.1",
+  "description": "An aoi.js plugins package to interact with the T-API easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aoi.js",
+    "bdfd",
+    "hytescript.js",
+    "easy-api.ts",
+    "moonlight-group",
+    "dtd.ts",
+    "dbd.js"
+  ],
+  "author": "Cyberghxst",
+  "license": "ISC"
+}
