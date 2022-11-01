@@ -18,7 +18,7 @@ class TAPI {
      * @param {string} name Function name
     */
     client.functionManager.createCustomFunction({
-      name: '$imageTAPI',
+      name: '$apiImage',
       type: 'djs',
       code: async (d) => {
         const data = d.util.aoiFunc(d);
@@ -43,7 +43,7 @@ class TAPI {
       }
     });
     client.functionManager.createCustomFunction({
-      name: '$jsonTAPI',
+      name: '$jsonAPI',
       type: 'djs',
       code: async (d) => {
         const data = d.util.aoiFunc(d);

@@ -52,7 +52,13 @@ module.exports = {
 }
 ```
 
-## Made with love by a Moonlight Group member.
+## Made with 💖 by a Moonlight Group member.
 ### Credits
 > Mid#1044 (for some code "inspiration")
 > <br> Cyberghxst#2683 (Package developer)
+
+### 👾 Known issues
+Indexing is not working in $apiImage (returns undefined)
+<br> Some endpoints are not working.
+
+#### uwuwis
